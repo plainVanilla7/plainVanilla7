@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @plainVanilla7
-- 👀 I’m interested in web development (reactjs,nodejs)
-- 🌱 I’m currently polishing backend skills
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in web development (especially MERN stack)
 - 📫 Reach me via linkedin https://www.linkedin.com/in/catalin-tudose/
 - 📫 ... or via email : tudose.catalin00@gmail.com
 <!---
